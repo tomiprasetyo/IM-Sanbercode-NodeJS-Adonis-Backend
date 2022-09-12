@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp Nodejs Adonis Backend
+1. Nama: Tomi Prasetyo
+2. Email: tomi.prasetyo95@gmail.com
+3. Sistem Operasi yang digunakan: MacOS X Monterey
+4. Akun Github: https://github.com/tomiprasetyo
+5. Akun Telegram: @Tomi_Prasetyo
